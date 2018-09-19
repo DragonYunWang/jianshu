@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Provider } from 'react-redux'
-import { BrowserRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import store from './store'
 import Header from './common/header'
 import Login from './pages/login'
@@ -14,10 +14,12 @@ class App extends Component {
         <BrowserRouter>
           <div>
             <Header />
-            <Route path="/" exact component={Home} />
-            <Route path="/login" exact component={Login} />
-            <Route path="/write" exact component={Write} />
-            <Route path="/detail/:id" exact component={Detail} />
+            <Switch>
+              <Route path="/" exact component={Home} />
+              <Route path="/login" exact component={Login} />
+              <Route path="/write" exact component={Write} />
+              <Route path="/detail/:id" exact component={Detail} />
+            </Switch>
           </div>
         </BrowserRouter>
       </Provider>
