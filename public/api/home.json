@@ -1,0 +1,112 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "手绘",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "胡歌12年后首谈车祸",
+        "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 2,
+        "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+        "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 3,
+        "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+        "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 4,
+        "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+        "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ],
+    "writerList": [
+      {
+        "id": 7290998,
+        "slug": "4062aaeba322",
+        "nickname": "念远怀人",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/7290998/f64f5ef0-def0-4b26-beb3-b9d88f060ba0.jpg",
+        "total_likes_count": 5686,
+        "total_wordage": 570816,
+        "is_following_user": false
+      },
+      {
+        "id": 10849033,
+        "slug": "62eb2baf2c62",
+        "nickname": "lostdays",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/10849033/a3e12f47-c81c-4659-9c80-117f8b337408.jpg",
+        "total_likes_count": 1106,
+        "total_wordage": 143487,
+        "is_following_user": false
+      },
+      {
+        "id": 2844887,
+        "slug": "28b0d7887971",
+        "nickname": "红瑀",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/2844887/cf3b6f90-774a-4ea7-9e59-b29f2f4b7ad6.jpg",
+        "total_likes_count": 10615,
+        "total_wordage": 305147,
+        "is_following_user": false
+      },
+      {
+        "id": 3627484,
+        "slug": "c5580cc1c3f4",
+        "nickname": "简书大学堂",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png",
+        "total_likes_count": 20555,
+        "total_wordage": 1084622,
+        "is_following_user": false
+      },
+      {
+        "id": 3343569,
+        "slug": "b3b2c03354f3",
+        "nickname": "吴晓布",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3343569/93161bfa-dda9-49ee-88e1-a85ec4227232.jpg",
+        "total_likes_count": 14264,
+        "total_wordage": 571051,
+        "is_following_user": false
+      }
+    ]
+  }
+}
